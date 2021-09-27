@@ -4,7 +4,10 @@ Splash Screen UI in Flutter using Simple Widgets.
 Subscribe Our YouTube Channel.<br><br>
  ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC7MuoT7cZtLjd6FoV9lHZ_g?style=social)<br>
 <a href="http://www.shifahub.ga" target="_parent"><button>Visit Website</button></a><br><br>
-
+# Splash Screen 
+<img src="https://user-images.githubusercontent.com/73570477/134931801-954f7452-2099-4700-af0d-a470433462b0.png"><br><br>
+# Login Sign Up UI 
+<img src="https://user-images.githubusercontent.com/73570477/134931784-1a51651c-4c1f-484f-ab9a-0b5d831dbfa9.png">
 ## 🔗 Links
 
 [![portfolio](https://img.shields.io/badge/my_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shifahub.ga/)
